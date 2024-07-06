@@ -23,7 +23,7 @@ def con():
 
 @app.route('/')
 def fetch():
-    return'hello world'
+    return 'hello world'
     
 
 
